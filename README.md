@@ -1,7 +1,7 @@
 MakeMKV-Batch-Converter
 =======================
 
-Step 1. Download Setup
+Step 1. Zip the File and Open
 
 Step 2. Install and Run
 
