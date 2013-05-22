@@ -5,7 +5,7 @@ Step 1. Download Setup
 
 Step 2. Install and Run
 
-Step 3. Choose Folder and ISO
+Step 3. Choose Folders or ISOs
 
 Step 4. Choose Output Folder
 
